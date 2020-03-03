@@ -1,4 +1,7 @@
 # matplotlib-challenge
+## Pymaceuticals Instructions
+
+![Laboratory](Images/Laboratory.jpg)
 
 While your data companions rushed off to jobs in finance and government, you remained adamant that science was the way for you. Staying true to your mission, you've since joined Pymaceuticals Inc., a burgeoning pharmaceutical company based out of San Diego, CA. Pymaceuticals specializes in drug-based, anti-cancer pharmaceuticals. In their most recent efforts, they've since begun screening for potential treatments to squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 As their Chief Data Analyst, you've been given access to the complete data from their most recent animal study. In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. Your objective is to analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
@@ -18,3 +21,7 @@ Remember when making your plots to consider aesthetics!
 Your legends should not be overlaid on top of any data.
 Your bar graph should indicate tumor growth as red and tumor reduction as green. It should also include a label with the percentage change for each bar. You may want to consult this tutorial for relevant code snippets.
 See Starter Workbook for a reference on expected format. (Note: For this example, you are not required to match the tables or data frames included. Your only goal is to build the scatter plots and bar graphs. Consider the tables to be potential clues, but feel free to approach this problem, however, you like.)
+
+### Copyright
+
+Tink-a-lot © 2019. All Rights Reserved.
